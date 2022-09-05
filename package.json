@@ -12,8 +12,12 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.36.1",
+    "@typescript-eslint/parser": "^5.36.1",
     "babel-preset-es2015": "^6.24.1",
+    "eslint": "^8.23.0",
     "gulp": "^4.0.2",
-    "gulp-babel": "^8.0.0"
+    "gulp-babel": "^8.0.0",
+    "gulp-eslint": "^6.0.0"
   }
 }
